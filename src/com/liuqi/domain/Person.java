@@ -11,6 +11,8 @@ public class Person {
     private String address;
 
     private String phone;
+
     private int number;
 
+    private String haobby;
 }
