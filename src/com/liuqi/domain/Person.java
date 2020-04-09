@@ -6,4 +6,5 @@ package com.liuqi.domain;
  */
 public class Person {
     private String namme;
+    private int age;
 }
